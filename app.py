@@ -9,6 +9,6 @@ print(sum)
 a = input("Enter the First Number :")
 b = input("Enter your second Number :")
 
-mul = a + b
+mul = a * b
 
 print(mul)
