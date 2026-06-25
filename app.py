@@ -11,4 +11,9 @@ b = int(input("Enter your second Number :"))
 
 sub = a - b
 
-print(sub)
+a = int(input("Enter the First Number :"))
+b = int(input("Enter your second Number :"))
+
+mul = a * b
+
+print(mul)
